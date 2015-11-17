@@ -20,7 +20,7 @@ $(function(){
 				}
 					}
 					else{
-						alert("Do not enter compound words")
+						alert("Do not enter compound words or words with symbols/punctuation")
 					}
 				$('#rhymeBox').empty()
 				for(i=0; i<rhymeWords.length; i++){
