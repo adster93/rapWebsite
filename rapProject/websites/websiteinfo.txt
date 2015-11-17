@@ -1,0 +1,2 @@
+http://developer.wordnik.com/docs.html#!/word/getRelatedWords_get_4
+https://bocoup.com/weblog/making-a-rapbot
